@@ -1,0 +1,31 @@
+body{
+    background-color: #9CCAE2;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+
+}
+.bg-color{
+    background-color:#B97CAC;
+    display: flex;
+    flex-direction: row;
+    width:100%;
+    height: 50vh;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin: 30px 50px;
+}
+.counter{
+    font-size: 60px;
+    margin: 10px;
+}
